@@ -1,2 +1,2 @@
 def get_employees():
-    pass
+    print('Функция вывода списка сотрудников')
